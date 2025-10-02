@@ -689,6 +689,10 @@ header .container {
   fill: #4d5ae5;
 }
 
+.review-form-div {
+  margin-bottom: 8px;
+}
+
 .review-form-div-textarea {
   margin-bottom: 16px;
 }
